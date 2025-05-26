@@ -1,7 +1,7 @@
 ## About me
 
-Languages: Chinese, English
+Languages: Chinese, English, Japanese(studying)
 
-Programming: Go, Python
+Programming: Go, Python, Java
 
-Research: Network
+Research: Network, Web
