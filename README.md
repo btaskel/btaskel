@@ -4,7 +4,7 @@ Languages: Chinese, English, Japanese(studying)
 
 Programming: Go, Python, Java
 
-Research: AI, Network
+Research: Network, Web
 
 Bio: My daily life is programming
 
